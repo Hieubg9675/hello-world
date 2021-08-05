@@ -1,2 +1,2 @@
-We # hello-worl
-And mention moon tacos
+# hello-world
+Just another repository
